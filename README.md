@@ -92,7 +92,7 @@ npm run mobile:validate
 
 `npm run mobile:validate` validates Expo configuration. `npm run build` builds shared contracts and the backend. `npm run build --workspace mobile` exports the Android JavaScript bundle when the selected Expo environment supports it.
 
-The repository's local verification suite covers linting, strict TypeScript checks, REST and Socket.io integration tests, MongoDB persistence/idempotency, and mobile utility tests. An EAS APK, deployed backend, GitHub repository, and public submission links have not been claimed as completed.
+The repository's local verification suite covers linting, strict TypeScript checks, REST and Socket.io integration tests, MongoDB persistence/idempotency, and mobile utility tests. The GitHub repository is published; an EAS APK, deployed backend, and remaining public submission links have not been claimed as completed.
 
 ## APK build
 
