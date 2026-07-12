@@ -118,7 +118,7 @@ This is a shared room with demo username identity, not secure authentication. Pr
 
 ## Submission placeholders
 
-- GitHub repository: pending repository creation.
+- GitHub repository: https://github.com/prem-aksh/realtime-chat
 - Deployed backend: pending Render/Railway deployment.
 - APK Google Drive: pending EAS build and upload.
 - Screen recording Google Drive: pending recording and upload.

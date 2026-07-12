@@ -2,7 +2,7 @@
 
 ## External links
 
-- [ ] GitHub repository link inserted: pending repository creation
+- [x] GitHub repository link inserted: https://github.com/prem-aksh/realtime-chat
 - [ ] Deployed backend URL inserted: pending Render/Railway deployment
 - [ ] APK or screen-recording link inserted: pending build/recording and upload
 
@@ -20,7 +20,7 @@
 
 ## External submission steps
 
-- [ ] GitHub repository created and code pushed
+- [x] GitHub repository created and code pushed
 - [ ] Backend deployed
 - [ ] Production Socket.io connection verified
 - [ ] MongoDB Atlas configured
